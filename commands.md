@@ -28,3 +28,14 @@
 | `;rhelp` | Creates a help message for the **;suggest** command | `;rhelp` | N/A |
 | `;urhelp` | Creates a help message for the **;reportuser** command | `;urhelp` | N/A |
 | `;brhelp` | Creates a help message for the **;reportbug** command | `;brhelp` | N/A |
+
+# Moderation Commands
+
+| Command	| Description |	Usage |	Aliases |
+| --- | --- | --- | --- |
+| `;ban` | Bans the user specified | `;ban [userID] <reason>` | N/A |
+| `;unban` | Unbans the user specified | `;unban [userID] <reason>` | N/A |
+| `;kick` | Kicks the user specified | `;kick [userID] <reason>` | N/A |
+| `;warn` | Warns the user specified | `;warn [userID] <reason>` | N/A |
+| `;clear` | Bulk deletes a specified amount of messages | `;clear [amount]` | `;clr` |
+| `;slowmode` | Changes the slowmode in the channel the command is used in | `;slowmode [time][s/m/h]` | N/A |
