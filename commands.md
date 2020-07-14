@@ -1,5 +1,5 @@
-- [[ ]] Mandatory
-- < > Optional
+- [text] Mandatory
+- <text> Optional
 
 # Main Commands
 
