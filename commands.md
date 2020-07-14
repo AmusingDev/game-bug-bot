@@ -1,4 +1,4 @@
-- [ ] Mandatory
+- /[ /] Mandatory
 - < > Optional
 
 # Main Commands
