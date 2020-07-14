@@ -1,5 +1,5 @@
-- [] Mandatory
-- <> Optional
+- [ ] Mandatory
+- < > Optional
 
 # Main Commands
 
