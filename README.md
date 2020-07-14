@@ -11,3 +11,7 @@ If you get an error 102, it means that the command that you are trying to use, r
 ## What is Error 203?
 
 If you get an error 203, it means that the command you are trying to use, needs to be used in a different text channel. You can see which channel(s) you can use the command in, in the error's description.
+
+## What is Error 107?
+
+If you get an error 107, it means that the command that you are trying to use requires you to have your DMs open if you get that error, please check if Allow direct message from server members is on or if you've blocked the bot.
