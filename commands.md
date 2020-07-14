@@ -15,6 +15,7 @@
 | --- | --- | --- | --- |
 | `;info` | Shows information about the specified member | `;info <userID>` | N/A |
 | `;serverinfo` | Displays information about the server the command is used in | `;serverinfo` | `;server-info` |
+| `;ping` | Displays the author's ms ping | `;ping` | N/A |
 
 # Main Commands
 
@@ -39,3 +40,21 @@
 | `;warn` | Warns the user specified | `;warn [userID] <reason>` | N/A |
 | `;clear` | Bulk deletes a specified amount of messages | `;clear [amount]` | `;clr` |
 | `;slowmode` | Changes the slowmode in the channel the command is used in | `;slowmode [time][s/m/h]` | N/A |
+
+# Other Commands
+
+| Command	| Description |	Usage |	Aliases |
+| --- | --- | --- | --- |
+| `;avatar` | Displays the author's profile picture | `;avatar` | `;av` |
+| `;commands` | Shows the amount of commands and sends a link to this page | `;commands` | N/A |
+| `;developer` | Shows who developed the bot | `;developer` | N/A |
+| `;embed` | Creates a custom embed with a title and a description | `;embed [title] \| [description]` | N/A |
+| `;feedback` | Sends the author a DM with a feedback form | `;feedback` | N/A |
+| `;guilds` | Shows how many guilds the bot is in | `;guilds` | N/A |
+| `;hug` | "*hugs*" the member specified | `;hug [@mention]` | N/A |
+| `;id` | Sends a help article explaining how to get IDs | `;id` | N/A |
+| `;members` | Adds up the amount of members in every guild the bot is in | `;members` | N/A |
+| `;invite` | Sends a link to invite the bot to a server | `;invite` | `;inv` |
+| `;resources` | Sends the author a DM containing useful resources for recording/screenshoting proof | `;resources` | N/A |
+| `;support` | Sends an invite to the bot's support server | `;support` | N/A |
+| `;version` | Displays the lastest update information | `;version` | N/A |
