@@ -1,5 +1,5 @@
-[] = Mandatory
-<> = Optional
+[] ~ Mandatory
+<> ~ Optional
 
 # Main Commands
 
@@ -9,7 +9,7 @@
 | `;setup-mod` | Created a channel and a category for punishment logs | `;setup-mod` | N/A |
 | `;help` | Sends a help message in the author's DMs | `;help` | N/A |
 
-# Main Commands
+# Informative Commands
 
 | Command	| Description |	Usage |	Aliases |
 | --- | --- | --- | --- |
