@@ -48,7 +48,7 @@
 | `;avatar` | Displays the author's profile picture | `;avatar` | `;av` |
 | `;commands` | Shows the amount of commands and sends a link to this page | `;commands` | N/A |
 | `;developer` | Shows who developed the bot | `;developer` | N/A |
-| `;embed` | Creates a custom embed with a title and a description | `;embed [title] \| [description]` | N/A |
+| `;embed` | Creates a custom embed with a title and a description | `;embed [title/description] \| <description>` | N/A |
 | `;feedback` | Sends the author a DM with a feedback form | `;feedback` | N/A |
 | `;guilds` | Shows how many guilds the bot is in | `;guilds` | N/A |
 | `;hug` | "*hugs*" the member specified | `;hug [@mention]` | N/A |
