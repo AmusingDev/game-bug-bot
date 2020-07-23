@@ -58,3 +58,4 @@
 | `;resources` | Sends the author a DM containing useful resources for recording/screenshoting proof | `;resources` | N/A |
 | `;support` | Sends an invite to the bot's support server | `;support` | N/A |
 | `;version` | Displays the lastest update information | `;version` | N/A |
+| `;vote` | Vote for Game-Bug Bot on top.gg! | `;vote` | N/A |
