@@ -46,7 +46,7 @@
 | Command	| Description |	Usage |	Aliases |
 | --- | --- | --- | --- |
 | `;avatar` | Displays the author's profile picture | `;avatar` | `;av` |
-| `;commands` | Shows the amount of commands and sends a link to this page | `;commands` | N/A |
+| `;commands` | Gives a link to this page | `;commands` | `;cmds`, `;cmd` |
 | `;developer` | Shows who developed the bot | `;developer` | N/A |
 | `;embed` | Creates a custom embed with a title and a description | `;embed [title/description] \| <description>` | N/A |
 | `;feedback` | Sends the author a DM with a feedback form | `;feedback` | N/A |
