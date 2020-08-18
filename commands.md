@@ -59,3 +59,4 @@
 | `;support` | Sends an invite to the bot's support server | `;support` | N/A |
 | `;version` | Displays the lastest update information | `;version` | N/A |
 | `;vote` | Vote for Game-Bug Bot on top.gg! | `;vote` | N/A |
+| `;badges` | Shows information about discord badges | `;badges` | N/A |
