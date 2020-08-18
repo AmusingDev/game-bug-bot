@@ -16,6 +16,7 @@
 | `;info` | Shows information about the specified member | `;info <userID>` | N/A |
 | `;serverinfo` | Displays information about the server the command is used in | `;serverinfo` | `;server-info` |
 | `;ping` | Displays the author's ms ping | `;ping` | N/A |
+| `;badges` | Shows information about discord badges | `;badges` | N/A |
 
 # Main Commands
 
@@ -59,4 +60,3 @@
 | `;support` | Sends an invite to the bot's support server | `;support` | N/A |
 | `;version` | Displays the lastest update information | `;version` | N/A |
 | `;vote` | Vote for Game-Bug Bot on top.gg! | `;vote` | N/A |
-| `;badges` | Shows information about discord badges | `;badges` | N/A |
