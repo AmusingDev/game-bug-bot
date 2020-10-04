@@ -1,62 +1,365 @@
-- [] Mandatory
-- < > Optional
+<center><h1 style="color: #FFFFFF">Halloween Commands</h1></center>
 
-# Important Commands
+<center><table style="width: 100%">
+  
+<tbody><tr>
+<th>Command</th>
+<th>Description</th>
+<th>Usage</th>
+<th>Aliases</th>
+</tr>
+        
+<tr>
+<td>halloween
+</td><td>Creates a halloween-exclusive help embed
+</td><td>;halloween
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>story
+</td><td>Sends a random halloween-related short story
+</td><td>;story
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>costume
+</td><td>Gives you an idea for a costume
+</td><td>;costume
+</td><td>N/A
+</td></tr>
 
-| Command	| Description |	Usage |	Aliases |
-| --- | --- | --- | --- |
-| `;setup` | Creates 3 channels and a category for reports/suggestions | `;setup` | N/A |
-| `;setup-mod` | Created a channel and a category for punishment logs | `;setup-mod` | N/A |
-| `;help` | Sends a help message in the author's DMs | `;help` | N/A |
+<tr>
+<td>spookyday
+</td><td>Tells you what day halloween is on
+</td><td>;spookyday
+</td><td>N/A
+</td></tr>
 
-# Informative Commands
+</tbody></table></center>
 
-| Command	| Description |	Usage |	Aliases |
-| --- | --- | --- | --- |
-| `;info` | Shows information about the specified member | `;info <userID>` | N/A |
-| `;serverinfo` | Displays information about the server the command is used in | `;serverinfo` | `;server-info` |
-| `;ping` | Displays the author's ms ping | `;ping` | N/A |
-| `;badges` | Shows information about discord badges | `;badges` | N/A |
+<br>
+<br>
 
-# Main Commands
+<center><h1 style="color: #FFFFFF">Main Commands</h1></center>
 
-| Command	| Description |	Usage |	Aliases |
-| --- | --- | --- | --- |
-| `;reportuser` | Sends a user report with the specified information | `;reportuser [username] \| [description] \| [proof]` | `;ureport` |
-| `;reportbug` | Sends a bug report with the specified information | `;reportuser [type of bug] \| [description] \| [device information] \| [proof]` | `;breport` |
-| `;suggest` | Sends a suggestion with the specified information | `;suggest [type of suggestion] \| [short description] \| [long description]` | N/A |
-| `;approve` | Approves the report/suggestion specified | `;approve [messageID] \| <reason>` | N/A |
-| `;deny` | Denies the report/suggestion specified | `;deny [messageID] \| <reason>` | N/A |
-| `;rhelp` | Creates a help message for the **;suggest** command | `;rhelp` | N/A |
-| `;urhelp` | Creates a help message for the **;reportuser** command | `;urhelp` | N/A |
-| `;brhelp` | Creates a help message for the **;reportbug** command | `;brhelp` | N/A |
+<center><table style="width: 100%">
+  
+<tbody><tr>
+<th>Command</th>
+<th>Description</th>
+<th>Usage</th>
+<th>Aliases</th>
+</tr>
+        
+<tr>
+<td>setup
+</td><td>Creates 3 channels and a category for reports/suggestions
+</td><td>;setup
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>setup mod
+</td><td>Created a channel and a category for punishment logs
+</td><td>;setup-mod
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>help
+</td><td>Sends a help message in the author's DMs
+</td><td>;help
+</td><td>N/A
+</td></tr>
 
-# Moderation Commands
+</tbody></table></center>
 
-| Command	| Description |	Usage |	Aliases |
-| --- | --- | --- | --- |
-| `;ban` | Bans the user specified | `;ban [userID] <reason>` | N/A |
-| `;unban` | Unbans the user specified | `;unban [userID] <reason>` | N/A |
-| `;kick` | Kicks the user specified | `;kick [userID] <reason>` | N/A |
-| `;warn` | Warns the user specified | `;warn [userID] <reason>` | N/A |
-| `;clear` | Bulk deletes a specified amount of messages | `;clear [amount]` | `;clr` |
-| `;slowmode` | Changes the slowmode in the channel the command is used in | `;slowmode [time][s/m/h]` | N/A |
+<br>
+<br>
 
-# Other Commands
+<center><h1 style="color: #FFFFFF">Informative Commands</h1></center>
 
-| Command	| Description |	Usage |	Aliases |
-| --- | --- | --- | --- |
-| `;avatar` | Displays the author's profile picture | `;avatar` | `;av` |
-| `;commands` | Gives a link to this page | `;commands` | `;cmds`, `;cmd` |
-| `;developer` | Shows who developed the bot | `;developer` | N/A |
-| `;embed` | Creates a custom embed with a title and a description | `;embed [title/description] \| <description>` | N/A |
-| `;feedback` | Sends the author a DM with a feedback form | `;feedback` | N/A |
-| `;guilds` | Shows how many guilds the bot is in | `;guilds` | N/A |
-| `;hug` | "*hugs*" the member specified | `;hug [@mention]` | N/A |
-| `;id` | Sends a help article explaining how to get IDs | `;id` | N/A |
-| `;members` | Adds up the amount of members in every guild the bot is in | `;members` | N/A |
-| `;invite` | Sends a link to invite the bot to a server | `;invite` | `;inv` |
-| `;resources` | Sends the author a DM containing useful resources for recording/screenshoting proof | `;resources` | N/A |
-| `;support` | Sends an invite to the bot's support server | `;support` | N/A |
-| `;version` | Displays the lastest update information | `;version` | N/A |
-| `;vote` | Vote for Game-Bug Bot on top.gg! | `;vote` | N/A |
+<center><table style="width: 100%">
+
+<tbody><tr>
+<th>Command</th>
+<th>Description</th>
+<th>Usage</th>
+<th>Aliases</th>
+</tr>
+  
+<tr>
+<td>info
+</td><td>Sends a user report with the specified information
+</td><td>;info
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>server info
+</td><td>Displays information about the server the command is used in
+</td><td>;serverinfo
+</td><td>;server-info
+</td></tr>
+
+<tr>
+<td>ping
+</td><td>Displays the author's ms ping
+</td><td>;ping
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>badges
+</td><td>Shows information about discord badges
+</td><td>;badges
+</td><td>N/A
+</td></tr>
+
+</tbody></table></center>
+
+<br>
+<br>
+
+<center><h1 style="color: #FFFFFF">Main Commands</h1></center>
+
+<center><table style="width: 100%">
+
+<tbody><tr>
+<th>Command</th>
+<th>Description</th>
+<th>Usage</th>
+<th>Aliases</th>
+</tr>
+  
+<tr>
+<td>reportuser
+</td><td>Sends a user report with the specified information
+</td><td>;reportuser
+</td><td>;ureport
+</td></tr>
+        
+<tr>
+<td>reportbug
+</td><td>Sends a bug report with the specified information
+</td><td>;reportbug
+</td><td>;breport
+</td></tr>
+
+<tr>
+<td>suggest
+</td><td>Sends a suggestion with the specified information
+</td><td>;suggest
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>approve
+</td><td>Approves the report/suggestion specified
+</td><td>;approve
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>deny
+</td><td>Denies the report/suggestion specified
+</td><td>;deny
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>rhelp
+</td><td>Creates a help message for the <b>;suggest</b> command
+</td><td>;rhelp
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>urhelp
+</td><td>Creates a help message for the <b>;reportuser</b> command
+</td><td>;urhelp
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>brhelp
+</td><td>Creates a help message for the <b>;reportbug</b> command
+</td><td>;brhelp
+</td><td>N/A
+</td></tr>
+
+</tbody></table></center>
+
+<br>
+<br>
+
+<center><h1 style="color: #FFFFFF">Moderation Commands</h1></center>
+
+<center><table style="width: 100%">
+
+<tbody><tr>
+<th>Command</th>
+<th>Description</th>
+<th>Usage</th>
+<th>Aliases</th>
+</tr>
+  
+<tr>
+<td>ban
+</td><td>Bans the user specified
+</td><td>;ban
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>unban
+</td><td>Unbans the user specified
+</td><td>;unban
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>kick
+</td><td>Kicks the user specified
+</td><td>;kick
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>warn
+</td><td>Warns the user specified
+</td><td>;warn
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>clear
+</td><td>Bulk deletes a specified amount of messages
+</td><td>;clear
+</td><td>;clr
+</td></tr>
+
+<tr>
+<td>slowmode
+</td><td>Changes the slowmode in the channel the command is used in
+</td><td>;slowmode
+</td><td>N/A
+</td></tr>
+
+</tbody></table></center>
+
+<br>
+<br>
+
+<center><h1 style="color: #FFFFFF">Other Commands</h1></center>
+
+<center><table style="width: 100%">
+
+<tbody><tr>
+<th>Command</th>
+<th>Description</th>
+<th>Usage</th>
+<th>Aliases</th>
+</tr>
+  
+<tr>
+<td>avatar
+</td><td>Displays the author's profile picture
+</td><td>;avatar
+</td><td>;av
+</td></tr>
+        
+<tr>
+<td>commands
+</td><td>Shows the amount of commands and sends a link to this page
+</td><td>;commands
+</td><td>;cmds, ;cmd
+</td></tr>
+
+<tr>
+<td>developer
+</td><td>Shows who developed the bot
+</td><td>;developer
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>embed
+</td><td>Creates a custom embed with a title and a description
+</td><td>;embed
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>feedback
+</td><td>Sends the author a DM with a feedback form
+</td><td>;feedback
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>guilds
+</td><td>Shows how many guilds the bot is in
+</td><td>;guilds
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>hug
+</td><td>"hugs" the member specified
+</td><td>;hug
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>id
+</td><td>Sends a help article explaining how to get IDs
+</td><td>;id
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>members
+</td><td>Adds up the amount of members in every guild the bot is in
+</td><td>;members
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>invite
+</td><td>Sends a link to invite the bot to a server
+</td><td>;invite
+</td><td>;inv
+</td></tr>
+
+<tr>
+<td>resources
+</td><td>Sends the author a DM containing useful resources for recording/screenshoting proof
+</td><td>;resources
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>support
+</td><td>Sends an invite to the bot's support server
+</td><td>;support
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>version
+</td><td>Displays the lastest update information
+</td><td>;version
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>vote
+</td><td>Vote for Game-Bug Bot on top.gg!
+</td><td>;vote
+</td><td>N/A
+</td></tr>
+
+</tbody></table></center>
