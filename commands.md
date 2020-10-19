@@ -170,6 +170,13 @@
 </td></tr>
 
 <tr>
+<td>revoke
+</td><td>Revokes the approval/denial from the report/suggestion specified
+</td><td>;revoke
+</td><td>N/A
+</td></tr>
+
+<tr>
 <td>rhelp
 </td><td>Creates a help message for the <b>;suggest</b> command
 </td><td>;rhelp
