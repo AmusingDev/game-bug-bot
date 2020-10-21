@@ -42,7 +42,7 @@
 <br>
 <br>
 
-<center><h1 style="color: #FFFFFF">Main Commands</h1></center>
+<center><h1 style="color: #FFFFFF">Important Commands</h1></center>
 
 <center><table style="width: 100%">
   
