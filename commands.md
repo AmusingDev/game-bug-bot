@@ -177,24 +177,24 @@
 </td></tr>
 
 <tr>
-<td>rhelp
+<td>suggesthelp
 </td><td>Creates a help message for the <b>;suggest</b> command
-</td><td>;rhelp
-</td><td>N/A
+</td><td>;suggesthelp
+</td><td>;shelp
 </td></tr>
 
 <tr>
-<td>urhelp
+<td>userreporthelp
 </td><td>Creates a help message for the <b>;reportuser</b> command
+</td><td>;userreporthelp
 </td><td>;urhelp
-</td><td>N/A
 </td></tr>
 
 <tr>
-<td>brhelp
+<td>bugreporthelp
 </td><td>Creates a help message for the <b>;reportbug</b> command
+</td><td>;bugreporthelp
 </td><td>;brhelp
-</td><td>N/A
 </td></tr>
 
 </tbody></table></center>
