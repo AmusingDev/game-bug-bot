@@ -252,7 +252,7 @@
 <td>clear
 </td><td>Bulk deletes a specified amount of messages
 </td><td>;clear
-</td><td>;clr
+</td><td>;clr, ;clean
 </td></tr>
 
 <tr>
