@@ -105,6 +105,13 @@
 </td></tr>
 
 <tr>
+<td>role info
+</td><td>Displays information about the role specified
+</td><td>;roleinfo
+</td><td>;role-info
+</td></tr>
+
+<tr>
 <td>ping
 </td><td>Displays the author's ms ping
 </td><td>;ping
