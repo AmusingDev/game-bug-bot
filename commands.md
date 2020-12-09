@@ -20,7 +20,7 @@
 <td>setup mod
 </td><td>Created a channel and a category for punishment logs
 </td><td>;setup-mod
-</td><td>N/A
+</td><td>;setupmod
 </td></tr>
         
 <tr>
@@ -50,7 +50,7 @@
 <td>info
 </td><td>Sends a user report with the specified information
 </td><td>;info
-</td><td>N/A
+</td><td>;userinfo, ;user-info, ;whois
 </td></tr>
         
 <tr>
@@ -194,7 +194,7 @@
 <td>kick
 </td><td>Kicks the user specified
 </td><td>;kick
-</td><td>N/A
+</td><td>;remove
 </td></tr>
 
 <tr>
@@ -208,14 +208,14 @@
 <td>clear
 </td><td>Bulk deletes a specified amount of messages
 </td><td>;clear
-</td><td>;clr, ;clean
+</td><td>;clr, ;clean, ;purge
 </td></tr>
 
 <tr>
 <td>slowmode
 </td><td>Changes the slowmode in the channel the command is used in
 </td><td>;slowmode
-</td><td>N/A
+</td><td>;sm
 </td></tr>
 
 </tbody></table></center>
@@ -252,7 +252,7 @@
 <td>developer
 </td><td>Shows who developed the bot
 </td><td>;developer
-</td><td>N/A
+</td><td>;developers, ;dev, ;devs, ;creator, ;creators
 </td></tr>
 
 <tr>
@@ -273,7 +273,7 @@
 <td>guilds
 </td><td>Shows how many guilds the bot is in
 </td><td>;guilds
-</td><td>N/A
+</td><td>;servers
 </td></tr>
 
 <tr>
