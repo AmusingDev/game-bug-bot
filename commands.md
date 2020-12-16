@@ -332,4 +332,18 @@
 </td><td>N/A
 </td></tr>
 
+<tr>
+<td>owoify
+</td><td>Makes text cute
+</td><td>;owoify
+</td><td>;owo, ;owoifier
+</td></tr>
+
+<tr>
+<td>jumbo
+</td><td>Enlarges custom emojis
+</td><td>;jumbo
+</td><td>;large, ;enlarge, ;big
+</td></tr>
+
 </tbody></table></center>
