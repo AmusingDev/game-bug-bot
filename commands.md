@@ -119,6 +119,13 @@
 </td></tr>
 
 <tr>
+<td>priority
+</td><td>Changes the report's priority
+</td><td>;priority
+</td><td>N/A
+</td></tr>
+
+<tr>
 <td>approve
 </td><td>Approves the report/suggestion specified
 </td><td>;approve
