@@ -50,7 +50,7 @@
 <td>info
 </td><td>Sends a user report with the specified information
 </td><td>;info @user
-</td><td>;userinfo, ;user-info, ;whois
+</td><td>;userinfo, ;user-info, ;whois, ;i
 </td></tr>
         
 <tr>
