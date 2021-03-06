@@ -11,14 +11,14 @@
         
 <tr>
 <td>setup
-</td><td>Creates 3 channels and a category for reports/suggestions
+</td><td>Creates 3 channels and a category for reports and suggestions
 </td><td>;setup
 </td><td>N/A
 </td></tr>
         
 <tr>
 <td>setup mod
-</td><td>Created a channel and a category for punishment logs
+</td><td>Creates a channel and a category for punishment logs
 </td><td>;setup-mod
 </td><td>;setupmod
 </td></tr>
@@ -49,7 +49,7 @@
 <tr>
 <td>info
 </td><td>Sends a user report with the specified information
-</td><td>;info
+</td><td>;info @user
 </td><td>;userinfo, ;user-info, ;whois
 </td></tr>
         
@@ -63,7 +63,7 @@
 <tr>
 <td>role info
 </td><td>Displays information about the role specified
-</td><td>;roleinfo
+</td><td>;roleinfo @role
 </td><td>;role-info
 </td></tr>
 
@@ -101,55 +101,69 @@
 <td>reportuser
 </td><td>Sends a user report with the specified information
 </td><td>;reportuser
-</td><td>;ureport
+</td><td>;ureport, ;report-user, ;user-report, ;userreport
 </td></tr>
         
 <tr>
 <td>reportbug
 </td><td>Sends a bug report with the specified information
-</td><td>;reportbug
-</td><td>;breport
+</td><td>;reportbug type of bug | description | device information | proof
+</td><td>;breport, ;report-bug, ;bug-report, ;bugreport
 </td></tr>
 
 <tr>
 <td>suggest
 </td><td>Sends a suggestion with the specified information
-</td><td>;suggest
+</td><td>;suggest type of suggestion | short description | long description
 </td><td>N/A
 </td></tr>
 
 <tr>
 <td>priority
 </td><td>Changes the report's priority
-</td><td>;priority
+</td><td>;priority messageID none/low/medium/high/critical
 </td><td>N/A
 </td></tr>
 
 <tr>
 <td>approve
-</td><td>Approves the report/suggestion specified
-</td><td>;approve
+</td><td>Marks the report/suggestion as approved with the specified reason
+</td><td>;approve messageID (reason)
 </td><td>N/A
 </td></tr>
         
 <tr>
 <td>deny
-</td><td>Denies the report/suggestion specified
-</td><td>;deny
+</td><td>Marks the report/suggestion as denied with the specific reason
+</td><td>;deny messageID (reason)
+</td><td>N/A
+</td></tr>
+
+<tr>
+<td>consider
+</td><td>Marks the suggestion as considered with the specified reason
+</td><td>;consider messageID (reason)
+</td><td>N/A
+</td></tr>
+        
+<tr>
+<td>implement
+</td><td>Marks the report/suggestion as implemented with the specified reason
+</td><td>;implement messageID (reason)
 </td><td>N/A
 </td></tr>
 
 <tr>
 <td>revoke
-</td><td>Revokes the approval/denial from the report/suggestion specified
-</td><td>;revoke
+</td><td>Revokes any actions done on the report/suggestion
+</td><td>;revoke messageID
 </td><td>N/A
 </td></tr>
 
 <tr>
 <td>suggesthelp
 </td><td>Creates a help message for the <b>;suggest</b> command
-</td><td>;suggesthelp
+</td><td>;suggestionhelp
 </td><td>;shelp
 </td></tr>
 
@@ -185,43 +199,43 @@
   
 <tr>
 <td>ban
-</td><td>Bans the user specified
-</td><td>;ban
+</td><td>Bans the user
+</td><td>;ban @user (reason)
 </td><td>N/A
 </td></tr>
         
 <tr>
 <td>unban
-</td><td>Unbans the user specified
-</td><td>;unban
+</td><td>Unbans the user
+</td><td>;unban @user (reason)
 </td><td>N/A
 </td></tr>
 
 <tr>
 <td>kick
-</td><td>Kicks the user specified
-</td><td>;kick
+</td><td>Kicks the user
+</td><td>;kick @user (reason)
 </td><td>;remove
 </td></tr>
 
 <tr>
 <td>warn
-</td><td>Warns the user specified
-</td><td>;warn
+</td><td>Warns the user
+</td><td>;warn @user (reason)
 </td><td>N/A
 </td></tr>
         
 <tr>
 <td>clear
-</td><td>Bulk deletes a specified amount of messages
-</td><td>;clear
+</td><td>Bulk deletes the specified amount of messages
+</td><td>;clear <amount>
 </td><td>;clr, ;clean, ;purge
 </td></tr>
 
 <tr>
 <td>slowmode
 </td><td>Changes the slowmode in the channel the command is used in
-</td><td>;slowmode
+</td><td>;slowmode <duration>s/m/h
 </td><td>;sm
 </td></tr>
 
@@ -244,7 +258,7 @@
 <tr>
 <td>avatar
 </td><td>Displays the author's profile picture
-</td><td>;avatar
+</td><td>;avatar @user
 </td><td>;av
 </td></tr>
         
@@ -265,7 +279,7 @@
 <tr>
 <td>embed
 </td><td>Creates a custom embed with a title and a description
-</td><td>;embed
+</td><td>;embed description or ;embed title | description
 </td><td>N/A
 </td></tr>
         
@@ -286,7 +300,7 @@
 <tr>
 <td>hug
 </td><td>"hugs" the member specified
-</td><td>;hug
+</td><td>;hug @user
 </td><td>N/A
 </td></tr>
 
@@ -342,14 +356,14 @@
 <tr>
 <td>owoify
 </td><td>Makes text cute
-</td><td>;owoify
+</td><td>;owoify (text)
 </td><td>;owo, ;owoifier
 </td></tr>
 
 <tr>
 <td>jumbo
 </td><td>Enlarges custom emojis
-</td><td>;jumbo
+</td><td>;jumbo (emoji)
 </td><td>;large, ;enlarge, ;big
 </td></tr>
 
