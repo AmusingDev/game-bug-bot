@@ -13,7 +13,7 @@
 <td>setup
 </td><td>Creates 3 channels and a category for reports and suggestions
 </td><td>;setup
-</td><td>N/A
+</td><td>
 </td></tr>
         
 <tr>
@@ -27,7 +27,7 @@
 <td>help
 </td><td>Sends a help message in the author's DMs
 </td><td>;help
-</td><td>N/A
+</td><td>
 </td></tr>
 
 </tbody></table></center>
@@ -71,14 +71,14 @@
 <td>ping
 </td><td>Displays the author's ms ping
 </td><td>;ping
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>badges
 </td><td>Shows information about discord badges
 </td><td>;badges
-</td><td>N/A
+</td><td>
 </td></tr>
 
 </tbody></table></center>
@@ -115,49 +115,49 @@
 <td>suggest
 </td><td>Sends a suggestion with the specified information
 </td><td>;suggest type of suggestion | short description | long description
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>priority
 </td><td>Changes the report's priority
 </td><td>;priority messageID none/low/medium/high/critical
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>approve
 </td><td>Marks the report/suggestion as approved with the specified reason
 </td><td>;approve messageID (reason)
-</td><td>N/A
+</td><td>
 </td></tr>
         
 <tr>
 <td>deny
 </td><td>Marks the report/suggestion as denied with the specific reason
 </td><td>;deny messageID (reason)
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>consider
 </td><td>Marks the suggestion as considered with the specified reason
 </td><td>;consider messageID (reason)
-</td><td>N/A
+</td><td>
 </td></tr>
         
 <tr>
 <td>implement
 </td><td>Marks the report/suggestion as implemented with the specified reason
 </td><td>;implement messageID (reason)
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>revoke
 </td><td>Revokes any actions done on the report/suggestion
 </td><td>;revoke messageID
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
@@ -201,14 +201,14 @@
 <td>ban
 </td><td>Bans the user
 </td><td>;ban @user (reason)
-</td><td>N/A
+</td><td>
 </td></tr>
         
 <tr>
 <td>unban
 </td><td>Unbans the user
 </td><td>;unban @user (reason)
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
@@ -222,7 +222,7 @@
 <td>warn
 </td><td>Warns the user
 </td><td>;warn @user (reason)
-</td><td>N/A
+</td><td>
 </td></tr>
         
 <tr>
@@ -280,14 +280,14 @@
 <td>embed
 </td><td>Creates a custom embed with a title and a description
 </td><td>;embed description or ;embed title | description
-</td><td>N/A
+</td><td>
 </td></tr>
         
 <tr>
 <td>feedback
 </td><td>Sends the author a DM with a feedback form
 </td><td>;feedback
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
@@ -301,21 +301,21 @@
 <td>hug
 </td><td>"hugs" the member specified
 </td><td>;hug @user
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>id
 </td><td>Sends a help article explaining how to get IDs
 </td><td>;id
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>members
 </td><td>Adds up the amount of members in every guild the bot is in
 </td><td>;members
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
@@ -329,28 +329,28 @@
 <td>resources
 </td><td>Sends the author a DM containing useful resources for recording/screenshoting proof
 </td><td>;resources
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>support
 </td><td>Sends an invite to the bot's support server
 </td><td>;support
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>version
 </td><td>Displays the lastest update information
 </td><td>;version
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
 <td>vote
 </td><td>Vote for Game-Bug Bot on top.gg!
 </td><td>;vote
-</td><td>N/A
+</td><td>
 </td></tr>
 
 <tr>
