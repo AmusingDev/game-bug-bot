@@ -86,7 +86,7 @@
 <br>
 <br>
 
-<center><h1 style="color: #FFFFFF">Main Commands</h1></center>
+<center><h1 style="color: #FFFFFF">Report/Suggestion Commands</h1></center>
 
 <center><table style="width: 100%">
 
