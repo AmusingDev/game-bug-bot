@@ -239,6 +239,20 @@
 </td><td>;sm
 </td></tr>
 
+<tr>
+<td>pin
+</td><td>Pins a message
+</td><td>;pin <messageID>
+</td><td>
+</td></tr>
+
+<tr>
+<td>pin
+</td><td>Unpins a message
+</td><td>;unpin <messageID>
+</td><td>
+</td></tr>
+
 </tbody></table></center>
 
 <br>
